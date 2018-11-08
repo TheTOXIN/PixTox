@@ -8,4 +8,5 @@ public enum Material {
     RCK,
     WTR,
     GRS,
+    NON,
 }
