@@ -8,5 +8,6 @@ public class Const {
     public static final int S = 16;
     public static final int W = sW / S;
     public static final int H = sH / S;
+    public static final int AREA = 3;
 
 }
